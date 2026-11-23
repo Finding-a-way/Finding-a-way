@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-YOUR__DISCORD-000000?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0d1117" alt="Discord"></a>
+  <a href="https://discord.com/users/402465389277347861"><img src="https://img.shields.io/badge/Discord-1__Xaker-000000?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0d1117" alt="Discord"></a>
   <img src="https://komarev.com/ghpvc/?username=Finding-a-way&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" alt="profile views">
 </p>
 
