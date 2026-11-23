@@ -64,10 +64,10 @@ $ whoami
 ## ▓ Languages 〜 言語
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ukrainian-Native-00FF41?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Russian-C2-00CC33?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Czech-B1-009926?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/English-A2-006619?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Ukrainian-Native-008F11?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Russian-C2-00700D?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Czech-B1-005209?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/English-A2-003B07?style=for-the-badge&labelColor=000000"/>
 </p>
 
 <p align="center"><code>„Not all those who wander are lost“ 〜 (⌐■_■)</code></p>
